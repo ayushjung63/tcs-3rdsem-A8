@@ -1,3 +1,5 @@
+package javabasics;
+
 public class FunctionMain {
     public static void main(String[] args) {
         int num1=10;

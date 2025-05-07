@@ -1,3 +1,5 @@
+package javabasics;
+
 public class TypesOfVariable {
     String name; // instance variable or class level variable
 

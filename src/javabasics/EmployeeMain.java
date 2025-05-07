@@ -1,3 +1,5 @@
+package javabasics;
+
 public class EmployeeMain {
     public static void main(String[] args) {
         Employee e1=new Employee();
@@ -12,7 +14,7 @@ public class EmployeeMain {
 }
 
 /*
-* Create a Student class with name and faculty
+* Create a javabasics.Student class with name and faculty
 * use both default and parametrized constructor to create object
 * print details
 *

@@ -1,3 +1,5 @@
+package javabasics;
+
 public class Employee {
 
     String name;
