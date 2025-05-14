@@ -1,0 +1,14 @@
+Encapsulation
+1. Create class Food with id, name, category
+2. Make fields private
+3. crate public getter and setter
+4. create main class: FoodMain and create object , use getter and setter
+5. set values and print
+
+Inheritance
+1. Create class Product with id, name and price
+2. Create DeliveryProduct and extends Product , add new fields in DeliveryFreeProduct
+    like deliveryCharge, deliveryLocation
+3. Create NonDeliveryProduct and extends Product, add new fields pickupLocation
+4. Create new main class DeliveryMain and create object
+    of  DeliveryProduct and  NonDeliveryProduct , set values and print
