@@ -1,0 +1,8 @@
+
+Q1. Create a User with fields username and password
+-> Create another class TeacherUser, extend User, add new field Wexpertise in TeacherUser
+-> Create another class StudentUser, extend User, add new fields semester, faculty in StudentUser
+-> make all fields private in all 3 classes
+
+    a. Create object and set values and access values using getter and setter
+    b. Create object with constructor :: make sure to user super constructor

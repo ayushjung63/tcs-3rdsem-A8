@@ -5,7 +5,7 @@ Encapsulation
 4. create main class: FoodMain and create object , use getter and setter
 5. set values and print
 
-Inheritance
+Inheritance (reference can be found inside :: oops.inheritance.product)
 1. Create class Product with id, name and price
 2. Create DeliveryProduct and extends Product , add new fields in DeliveryFreeProduct
     like deliveryCharge, deliveryLocation
