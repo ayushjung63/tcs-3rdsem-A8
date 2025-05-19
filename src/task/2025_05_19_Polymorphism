@@ -1,0 +1,9 @@
+
+1. Create a KycVerifier, create 2 new class (Method Overloading)
+   a. CitizenShip with num and issuedLocation
+   b. License with num and validity
+
+
+2. Create Method overriding example
+    a. Create class Coder and children JavaCoder, PythonCoder , JSCodder
+    b. Assign object of all children to Coder class
