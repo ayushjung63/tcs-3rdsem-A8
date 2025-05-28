@@ -1,0 +1,9 @@
+1. Create a abstract class WebsiteBuilder
+2. WebsiteBuilder should have 1 abstract method and 1 non abstract method
+        public abstract void createWebsite();
+
+        public void deploy(){
+            System.out.println("Deployed in AWS");
+        }
+3. Create 2 sub class of WebsiteBuilder
+4. Create and use objects in Main method

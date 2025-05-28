@@ -1,0 +1,6 @@
+Exception vs Error
+Types of Exception (Checked vs Unchecked)
+Exception Handling(Try-Catch, Throws)
+Catch heirarchy(Specific to Generic)
+Throwing custom exception (throw)
+creating custom exception
